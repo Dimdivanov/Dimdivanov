@@ -5,7 +5,7 @@
 - 💬 Ask me about the lectures and problems I like solving.
 
   
- <img align="right" alt="Coding" width="200" src="https://media.tenor.com/rkzdlwxESqUAAAAd/cat-thurston-waffles.gif">
+ <img align="center" alt="Coding" width="200" src="https://media.tenor.com/rkzdlwxESqUAAAAd/cat-thurston-waffles.gif">
 
 
 
