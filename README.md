@@ -18,4 +18,5 @@ Hi there, I'm <a>Dimitar Ivanov</a> 👋
 <a> <img src="https://img.shields.io/badge/-dimdivanov-purple?style=flat-square&logo=instagram&logoColor=white" href="https://www.instagram.com/dimdivanov/?hl=en"/></a>
 </p>
 
+## 📈 GitHub Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deifyme)](https://git.io/streak-stats)
