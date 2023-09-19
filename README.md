@@ -1,5 +1,11 @@
-### Hi, I am Dimitar Ivanov! 👋
 
+
+
+
+<img src="https://badges.pufler.dev/visits/deifyme/deifyme"/> 
+ <!-- <img src="https://badges.pufler.dev/years/deifyme"/> -->
+ <img src="https://badges.pufler.dev/repos/deifyme"/>
+ <img src="https://badges.pufler.dev/commits/monthly/deifyme" />
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning JavaScript Fundamentals at SoftUni.
 - 💬 Ask me about the lectures and problems I like solving.
