@@ -1,3 +1,7 @@
+
+<h3 align="center">
+Hi there, I'm <a>Dimitar Ivanov</a> 👋
+</h3>
 <p align="center">
  <img src="https://badges.pufler.dev/visits/deifyme/deifyme"/> 
  <img src="https://badges.pufler.dev/repos/deifyme"/>
