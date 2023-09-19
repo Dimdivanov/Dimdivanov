@@ -12,7 +12,7 @@
 <h2 align="center">Reach me out on <img src= "https://media.tenor.com/rkzdlwxESqUAAAAd/cat-thurston-waffles.gif" width="50" ></h2>
 <p align="center">
 <a>[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/Diiv92/)</a> 
-<a> <img src="https://img.shields.io/badge/-dimdivanov-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dimdivanov/"/></a>
+<a> <img src="https://img.shields.io/badge/-dimdivanov-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dimdivanov"/></a>
 <a>[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-ivanov-709b67253/)</a>
 </p>
 
