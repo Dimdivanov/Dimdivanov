@@ -10,7 +10,7 @@
 
 <img align="center" alt="Coding" width="200" src="https://media.tenor.com/rkzdlwxESqUAAAAd/cat-thurston-waffles.gif">
 
-<p>
+<p align="center">
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/Diiv92/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/dimdivanov/) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-ivanov-709b67253/)
