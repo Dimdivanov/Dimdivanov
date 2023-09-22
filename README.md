@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi there, it's Dimitar Ivanov 👋</h1>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I lift weights and play video games</p>
+<p align="left">I'm Dimitar(Mitaka), I am an enthusiastic learner with a growing interest in front-end development<br><br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I lift weights and play video games</p>
 
 ###
 
