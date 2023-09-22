@@ -39,11 +39,3 @@
 
 ###
 
-
-<div align="center">
-  <a href="https://open.spotify.com/user/crywolf1337">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
