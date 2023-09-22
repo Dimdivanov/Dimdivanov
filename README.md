@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Dimitar my friends call me Mitak, I am an enthusiastic learner with a growing interest in front-end development.<br><br>- 📚 I'm currently learning JavaScript at SoftUni<br>- ⚡ In my free time I lift weights and play video games </p>
+<p align="left">I am an enthusiastic learner with a growing interest in front-end development.<br><br>- 📚 I'm currently learning JavaScript at SoftUni<br>- ⚡ In my free time I lift weights and play video games </p>
 
 ###
 
