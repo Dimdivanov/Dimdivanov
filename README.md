@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I am an enthusiastic learner with a growing interest in Front-end development.<br><br>- 📚 I'm currently learning JavaScript at SoftUni. <br>- ⚡ In my free time I like to lift weights and play video games online. </p>
+<p align="left">👨‍💻 Enthusiastic coder with a passion for problem-solving and clean code.<br>💪 Dedicated to both software development and workouts, I find balance in the binary world and the weight room. <br>Living life with a positive outlook, one code at a time. In my downtime, you'll catch me gaming, leveling up my skills, and currently, I'm immersed in the world of JavaScript. Excited to build an exciting frontend journey! 🎮🌐 #CodeAndLift 🚀💻🎧<br>-  </p>
 
 ###
 
