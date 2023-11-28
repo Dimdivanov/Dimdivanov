@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=dimdivanov)](https://git.io/streak-stats)" height="220" alt= "streak graph" />
+  <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dimdivanov" alt="GitHub Streak" height="220" alt= "streak graph" />
 </div>
 
 ###
